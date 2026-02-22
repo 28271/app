@@ -42,16 +42,16 @@ Status: 🔵 Upcoming
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Y4AMA">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:hitampuqimak">
     <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/suki_exploit_112">
     <img src="https://img.shields.io/badge/Instagram-F472B6?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://tiktok.com/@yourusername">
+  <a href="https://tiktok.com/@zeroxyzto">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
