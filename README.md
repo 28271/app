@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&center=true&vCenter=true&lines=Modern+Web+Tools+Platform;Clean+%26+Minimal+SaaS+Design;Built+With+Passion+%F0%9F%92%AB" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&center=true&vCenter=true&lines=Free+Web+Tools+%F0%9F%92%AB" />
 </p>
 
 ---
